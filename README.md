@@ -17,7 +17,7 @@ I graduated from Trakya University, Department of Mechanical Engineering. After 
 ## ⚡ Skills:
 - C#
 - .Net
-- SQL
+- PL/SQL
 - EfCore
 - JS
 - React
